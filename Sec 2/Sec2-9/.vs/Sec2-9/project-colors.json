@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1d980017-a8ff-4bd7-9d65-e6ac83ec4793": {
+      "ProjectGuid": "1d980017-a8ff-4bd7-9d65-e6ac83ec4793",
+      "DisplayName": "Sec2-9",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
