@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "82eb4915-ed87-46c3-aa74-df1c852b0445": {
+      "ProjectGuid": "82eb4915-ed87-46c3-aa74-df1c852b0445",
+      "DisplayName": "Sec3_2_숫자만_추출",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "기타 파일",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 1
+}
